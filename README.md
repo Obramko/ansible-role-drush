@@ -30,12 +30,6 @@ The version of Drush to install (examples: `master` for the bleeding edge, `7.x`
 
 Whether to keep Drush up-to-date with the latest revision of the branch specified by `drush_version`.
 
-## Dependencies
-
-  - geerlingguy.git (Installs Git).
-  - geerlingguy.php (Installs PHP).
-  - geerlingguy.composer (Installs Composer).
-
 ## Example Playbook
 
     - hosts: servers
