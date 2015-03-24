@@ -1,8 +1,8 @@
 # Ansible Role: Drush
 
-[![Build Status](https://travis-ci.org/geerlingguy/ansible-role-drush.svg?branch=master)](https://travis-ci.org/geerlingguy/ansible-role-drush)
-
 Installs Drush, a command line shell and scripting interface for Drupal, on any Linux or UNIX system.
+
+This fork of original geerlingguy's repository does not depend on any external playbooks so it's assumed you already have PHP, Composer and Git installed.
 
 ## Requirements
 
