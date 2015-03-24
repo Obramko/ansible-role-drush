@@ -1,9 +1,4 @@
 ---
-dependencies:
-  - { role: geerlingguy.git }
-  - { role: geerlingguy.php }
-  - { role: geerlingguy.composer }
-
 galaxy_info:
   author: geerlingguy
   description: Drush - command line shell for Drupal
